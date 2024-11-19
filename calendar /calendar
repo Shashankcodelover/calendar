@@ -1,0 +1,5 @@
+from calendar import *
+
+year=int(input(" enter the year of which year of calendar required \n >> "))
+print()
+print(calendar(year))
